@@ -1,0 +1,27 @@
+.nav-right-ul{
+    display: flex;
+    align-items: center;
+}
+.nav-right-ul li {
+    margin: 0 10px;
+    list-style: none;
+    
+}
+
+.nav-right-ul a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: black;
+    color: white;
+}
+
+.nav-left h4{
+    margin: 0 40px;
+}
